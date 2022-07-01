@@ -11,13 +11,3 @@
 🛠 Languages and Tools
 C++  C  ReactJS  NodeJS MongoDB Express HTML  CSS  Git  GitHub  Visual Studio Code 
 
-My Projects :
-
-Rentify :
-A Website with is used for posting a property to be rented. Features: User can login/Signup, Post a property with pictures and location (plotted on map), Description of property can be change later along with pictures, user can comment with rating
-and can delete there comment, Necessary routes are protected, user can search. Technologies: HTML, CSS, JS, NodeJS, EJS, Express, MongoDB, Mongoose, API. 
-
-
-PLAN MY TRIP :
-A website that help to to find Attractions, Hotels, Restaurants near you. Features: User can search Attractions, Hotels, Restaurants around the world ( also plotted on
-map ) and filter them according to rating. Technologies: React, API, integration of google map. 
